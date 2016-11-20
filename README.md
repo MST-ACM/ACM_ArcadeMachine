@@ -46,4 +46,3 @@ This repository includes the documentation on general structure of the ACM Arcad
 
 # Contributing
 Please contact [acm@mst.edu](acm@mst.edu) if you wish to improve, help, or mantain the Arcade Machine and its documentation.
->>>>>>> Added Documentation/Backup files
