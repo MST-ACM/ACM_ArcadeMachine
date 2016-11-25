@@ -1,7 +1,7 @@
 # ACM Arcade Machine Documentation
 This repository includes the documentation on general structure of the ACM Arcade Machine's programs, procedures in order to resolve any future issues, and additional resource backup for the Arcade Machines Files
 
-## Necessary programs
+## Dependencies
 1. [Mame](http://www.mame.net/)
   + ```Mame``` - The emulator program which is used to actually run the games. All games can be found under the ```MAME/roms``` file.
 2. [mGalaxy](http://www.mgalaxy.com/)
